@@ -5,7 +5,7 @@
 - McIntosh High School (Diploma Expected 2025)
 
 ## Employmemt History
-- Reffeeing
+- Reffereeing
 - Coaching
 - Babysitting
 - Voluenteer Work
