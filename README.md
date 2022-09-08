@@ -4,3 +4,4 @@
 ## Contents 
 - [Resume](RESUME.md)
 - [Programming Language Table](PROGRAMMING-LANGUAGE-TABLE.md)
+- [Binary Logic](Binary-Logic.md)
