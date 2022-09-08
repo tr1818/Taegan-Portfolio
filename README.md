@@ -3,3 +3,4 @@
 
 ## Contents 
 - [Resume](RESUME.md)
+- [Programming Language Table]
