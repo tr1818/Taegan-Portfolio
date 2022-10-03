@@ -19,3 +19,7 @@
 - Soccer
 - Netflix
 - Hanging out with friends
+
+## Typing
+- Keys Learned
+- J, F, SPACE, U, R, K
