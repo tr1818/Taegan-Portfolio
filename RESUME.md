@@ -22,5 +22,5 @@
 
 ## Typing
 - Keys Learned
-- J, F, SPACE, U, R, K, E, D, I
+- J, F, SPACE, U, R, K, E, D, I, C, G, N
 - 77 WPM
