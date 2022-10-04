@@ -23,3 +23,4 @@
 ## Typing
 - Keys Learned
 - J, F, SPACE, U, R, K
+- 77 WPM
